@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">СтройМатч</string>
+    <string name="select_role">Выберите роль</string>
+    <string name="personal_information">Личная информация</string>
+    <string name="company_information">Информация о компании</string>
+    <string name="worker_information">Информация о работнике</string>
+    <string name="industry">Отрасль</string>
+    <string name="company_size">Размер компании</string>
+    <string name="name">Имя</string>
+    <string name="age">Возраст</string>
+    <string name="city">Город</string>
+    <string name="gender">Пол</string>
+    <string name="work_experience">Опыт работы</string>
+    <string name="material_knowledge">Знание материалов</string>
+    <string name="blueprint_reading">Чтение чертежей</string>
+    <string name="team_management">Управление командой</string>
+    <string name="tool_experience">Опыт работы с инструментами</string>
+    <string name="safety_knowledge">Знание правил безопасности</string>
+    <string name="communication">Коммуникация</string>
+    <string name="project_experience">Опыт работы над проектами</string>
+    <string name="planning">Планирование</string>
+    <string name="mechanics_knowledge">Знание механики</string>
+    <string name="material_experience">Опыт работы с материалами</string>
+    <string name="construction_experience">Опыт работы в строительстве</string>
+    <string name="hvac_experience">Опыт работы с HVAC</string>
+    <string name="electrical_experience">Опыт работы с электричеством</string>
+    <string name="budget_management">Управление бюджетом</string>
+    <string name="foundation_experience">Опыт работы с фундаментами</string>
+    <string name="problem_solving">Решение проблем</string>
+    <string name="roofing_experience">Опыт работы с крышами</string>
+    <string name="project_management">Управление проектами</string>
+    <string name="glazing_experience">Опыт работы с остеклением</string>
+    <string name="insulation_experience">Опыт работы с изоляцией</string>
+    <string name="finishing_experience">Опыт отделочных работ</string>
+    <string name="subcontractor_management">Управление субподрядчиками</string>
+    <string name="exterior_finishing">Наружная отделка</string>
+    <string name="machinery_experience">Опыт работы с техникой</string>
+    <string name="btn_search">Поиск</string>
+    <string-array name="industries">
+        <item>Строительство</item>
+        <item>Архитектура</item>
+        <item>Инженерия</item>
+        <item>Электрика</item>
+        <item>Отопление и вентиляция</item>
+        <item>Сантехника</item>
+        <item>Проектирование</item>
+        <item>Управление проектами</item>
+        <item>Отделочные работы</item>
+        <item>Другое</item>
+    </string-array>
+</resources>
